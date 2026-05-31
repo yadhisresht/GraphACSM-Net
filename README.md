@@ -124,13 +124,9 @@ streamlit run app.py
 
 ---
 
-## ▶️ Running the App
+## ▶️ Demo Link
 
-```bash
-streamlit run app.py
-```
-
-Open your browser at **http://localhost:8501**
+https://graphacsm-anticancer.streamlit.app/
 
 ---
 
