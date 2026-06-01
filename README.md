@@ -149,8 +149,9 @@ Developed at the **Computational Biology Lab, SRMIST**
 | Dr. A. Revathi | Co-Investigator |
 | Ms. Priya Dharshini B. | Research Scholar |
 | Ms. Subathra Selvam | Research Scholar |
-| Priyanshu Goyal | Developer (B.Tech AI/ML) |
 | Yadhisresht Harikrishnan | Developer (B.Tech AI/ML) |
+| Priyanshu Goyal | Developer (B.Tech AI/ML) |
+
 
 📍 SRM Institute of Science and Technology, Kattankulathur, Tamil Nadu 603203
 
